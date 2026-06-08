@@ -1,0 +1,6 @@
+{
+  "name": "Delivery Local",
+  "description": "Um aplicativo de delivery local completo com cardápio, carrinho, acompanhamento de pedidos, área do entregador e painel de gerenciamento de preços.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
